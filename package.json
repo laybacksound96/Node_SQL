@@ -1,0 +1,11 @@
+{
+  "name": "node_sql",
+  "version": "1.0.0",
+  "description": "dpdpdpdㅁㅇ멩ㅁㄴㅇㅁ넹ㅁ에엥에엥에엥에우이에이에엥에에에에엥",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
